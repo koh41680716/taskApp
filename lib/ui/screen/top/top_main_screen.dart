@@ -12,3 +12,6 @@ class Top_mainScreen extends StatelessWidget {
         ));
   }
 }
+
+// ここにナビゲーションやタブバー呼び出しコード記述
+// 以後、どの画面でも表示されるようにする
